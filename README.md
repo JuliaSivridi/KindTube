@@ -29,6 +29,7 @@ YouTube Kids still recommends content by algorithm. KindTube flips the model: th
 - Curated channel list: add channels by search, remove anytime
 - Block a channel right from the player (gated by a parental control check)
 - Non-embeddable videos are filtered out automatically — the kid never hits "Video unavailable"
+- Export / import the channel list as a JSON file — move your setup to another device or reinstall without losing it
 
 **🎛 Player (custom, WebView-based)**
 - YouTube's own UI is fully hidden — no channel links, no Subscribe buttons, no end-screen recommendations
