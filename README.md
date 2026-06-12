@@ -81,6 +81,12 @@ git push origin v1.0.0
 
 ---
 
+## Documentation
+
+- **Technical specification:** [`docs/tech-spec.md`](docs/tech-spec.md)
+
+---
+
 ## How it works
 
 1. The parent adds channels in the **Subscriptions** tab (search by name)

@@ -66,7 +66,7 @@ fun HomeScreen(
         contentWindowInsets = androidx.compose.foundation.layout.WindowInsets(0),
         topBar = {
             TopAppBar(
-                title = { Text("MyKidTube") },
+                title = { Text("KindTube") },
                 colors = TopAppBarDefaults.topAppBarColors(containerColor = LocalTabColor.current),
                 actions = {
                     IconButton(onClick = onSearchClick) {
